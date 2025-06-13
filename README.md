@@ -25,13 +25,6 @@ Este projeto é uma página web construída usando o framework **Bootstrap**, qu
 
 ---
 
-## 📸 Capturas de tela
-
-<!-- Você pode adicionar uma imagem do seu site aqui -->
-![Preview do site](https://raw.githubusercontent.com/kaua-stack/siteBoostrap/main/assets/preview.png)  
-*Obs: Atualize o link da imagem para a captura real do seu projeto*
-
----
 
 ## 🚀 Como executar localmente
 
